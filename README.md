@@ -20,6 +20,7 @@ Công cụ:
 -----
 * [Cổng tri thức](https://www.messenger.com/t/434504756891831/) (Chat bot trên Facebook Messenger)
 * [DH17PM](https://www.messenger.com/t/1411856312175136/) (Nhóm chat trên Facebook Messenger)
+* [DH17PM và Software Engineering](https://chat.zalo.me/) (Nhóm chat trên Zalo)
 * [DH17PM - AGU](https://dh17pm.slack.com) (Chat nhóm trên Slack)
 
 Trang thương hiệu:
