@@ -7,11 +7,6 @@ Các đơn vị thông tin:
 * [Lớp DH17PM - Trường Đại học An Giang](https://www.facebook.com/groups/DH17PM.AGU/) (Nhóm nội bộ trên Facebook)
 * [Lớp DH17PM - Trường Đại học An Giang](groups.google.com/group/dh17pm) (Nhóm chia sẻ tổng hợp tài nguyên trên Google)
 
-Thông tin liên hệ khẩn cấp:
------
-* Chủ nhiệm: **094 562 7772** (Cô Tuyết Vân)
-* Quản lý nhóm: **016 3331 6116** (Bạn Anh Khoa)
-
 Nội quy:
 -----
 * [Nội quy tổng quát](https://github.com/DH17PM/Community/blob/master/RULES.md)
