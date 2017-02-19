@@ -8,8 +8,8 @@ Các đơn vị thông tin:
 
 Thông tin liên hệ khẩn cấp:
 -----
-* Chủ nhiệm: 0945627772 (Cô Tuyết Vân)
-* Quản lý nhóm: 01633316116 (Bạn Anh Khoa)
+* Chủ nhiệm: **094 562 7772** (Cô Tuyết Vân)
+* Quản lý nhóm: **016 3331 6116** (Bạn Anh Khoa)
 
 Công cụ:
 -----
