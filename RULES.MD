@@ -52,7 +52,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.communi
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
-Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **HỦY TƯ CÁCH THÀNH VIÊN** hoặc **CẮM/CHẶN** vĩnh viễn khỏi nhóm.
+Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **HỦY TƯ CÁCH THÀNH VIÊN** hoặc **CẤM/CHẶN** vĩnh viễn khỏi nhóm.
 
 ----
 
