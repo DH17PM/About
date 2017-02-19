@@ -19,6 +19,7 @@ Nội quy:
 Công cụ:
 -----
 * [Cổng tri thức](https://www.messenger.com/t/434504756891831/) (Chat bot trên Facebook Messenger)
+* [DH17PM - AGU](https://dh17pm.slack.com) (Chat nhóm trên Slack)
 
 Trang thương hiệu:
 -----
