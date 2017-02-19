@@ -14,6 +14,8 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ NỘI DUNG
 - Sử dụng tiếng Việt, có dấu, tránh viết tắt. **KHÔNG** được sử dụng teen-code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
+- Các vấn đề được đăng tải trên trang là các vấn đề được công bố công khai giữa lớp với bạn bè đến từ các đơn vị khác.
+- Mọi trường hợp **vi phạm các quy định của nhà trường** về tác phong, đạo đức ứng xử trên Nhóm sẽ **bị xử lý theo quy định**.
 - **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...). Có thể đăng bài viết tuyển dụng các công việc liên quan tới ngành nghề CNTT.
 - Nếu đăng bài hỏi đáp, hãy **Google trước** để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
@@ -52,7 +54,9 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.communi
 
 Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **HỦY TƯ CÁCH THÀNH VIÊN** hoặc **CẮM/CHẶN** vĩnh viễn khỏi nhóm.
 
----
+----
+
+*Mọi thành viên* có trách nhiệm **báo cáo trực tiếp với Quản trị viên** về các vấn đề phát sinh.
 
 Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo tới quản trị viên" hoặc tag thành viên Ban Quản Trị vào bài viết đó.
 
