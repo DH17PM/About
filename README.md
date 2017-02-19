@@ -12,6 +12,10 @@ Thông tin liên hệ khẩn cấp:
 * Chủ nhiệm: **094 562 7772** (Cô Tuyết Vân)
 * Quản lý nhóm: **016 3331 6116** (Bạn Anh Khoa)
 
+Nội quy:
+-----
+* [Nội quy tổng quát](https://github.com/DH17PM/Community/blob/master/RULES.md)
+
 Công cụ:
 -----
 * [Cổng tri thức](https://www.messenger.com/t/434504756891831/) (Chat bot trên Facebook Messenger)
