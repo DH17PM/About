@@ -5,7 +5,7 @@ Các đơn vị thông tin:
 -----
 * [Ban ngoại giao - Lớp DH17PM - AGU](https://www.facebook.com/groups/dh17pm.agu.fa/) (Nhóm dành cho Cộng đồng trên Facebook)
 * [Lớp DH17PM - Trường Đại học An Giang](https://www.facebook.com/groups/DH17PM.AGU/) (Nhóm nội bộ trên Facebook)
-* [Lớp DH17PM - Trường Đại học An Giang](groups.google.com/group/dh17pm) (Nhóm chia sẻ tổng hợp tài nguyên trên Google)
+* [Lớp DH17PM - Trường Đại học An Giang](https://groups.google.com/group/dh17pm) (Nhóm chia sẻ tổng hợp tài nguyên trên Google)
 
 Nội quy:
 -----
