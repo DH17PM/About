@@ -36,11 +36,11 @@ Nhóm được quản lý bởi [DH17PM](https://www.google.com.vn/search?q=dh17
 
 ### VỀ HASHTAG
 
-Các bài viết chia sẻ tài liệu, ebook, mã nguồn hoặc bất cứ thứ gì mà thành viên khác có thể tải về được thì bạn vui lòng sử dụng hashtag [#dh17pm_share](https://www.facebook.com/hashtag/dh17pm_share) và các hashtag chứa từ khóa liên quan tới tài liệu (ví dụ: [#security](https://www.facebook.com/hashtag/security) nếu nội dung về bảo mật, [#php](https://www.facebook.com/hashtag/php) nếu chia sẻ ebook học PHP) để giúp BQT dễ dàng tổng hợp và phân loại tài nguyên cũng như tặng điểm thưởng trong hệ thống xếp hạng thành viên hoạt động tích cực. Đồng thời cũng giúp các thành viên khác có thể dễ dàng tìm bài viết hoặc chính bạn tìm lại sau này.
+Các bài viết chia sẻ tài liệu, ebook, mã nguồn hoặc bất cứ thứ gì mà thành viên khác có thể tải về được thì bạn vui lòng sử dụng hashtag [#dh17pm_share](https://www.facebook.com/hashtag/dh17pm_share) và các hashtag chứa từ khóa liên quan tới tài liệu (ví dụ: [#dh17pm_security](https://www.facebook.com/hashtag/dh17pm_security) nếu nội dung về bảo mật, [#dh17pm_php](https://www.facebook.com/hashtag/dh17pm_php) nếu chia sẻ ebook học PHP) để giúp BQT dễ dàng tổng hợp và phân loại tài nguyên cũng như tặng điểm thưởng trong hệ thống xếp hạng thành viên hoạt động tích cực. Đồng thời cũng giúp các thành viên khác có thể dễ dàng tìm bài viết hoặc chính bạn tìm lại sau này.
 
-Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.community/permalink/413843845614408/) sử dụng hashtag:
+Ví dụ về một **bài viết** sử dụng hashtag:
 
-![hashtag](https://i.imgur.com/qPJ1UgT.png)
+![hashtag](https://github.com/KohaJeseMen/Public/raw/master/example.PNG)
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
